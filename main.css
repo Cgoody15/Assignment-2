@@ -9,10 +9,19 @@ img{
 
 .main-nav {
     text-transform: capitalize;
-    text-decoration-color: #0000FF;
+    text-decoration-color: #FFFFFF;
     font-size: 100%;
 }
 
-
-        
+body{
+    background-image: url(assignment-2/images/full-moon.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    color: #FFFFFF;
+    font-size: 125%;
+}
+h1,
+h2{color: #FFFFFF;
+    font-size: 300%;  
 }
